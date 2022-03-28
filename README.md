@@ -19,3 +19,7 @@ configuração e demotração dos sites de documentação que foi usado para ger
 - Não use var use let ou const
 - escopo de variáveis
 - let e const tem o mesmo escopo de bloco e var escopo de função
+
+### Aula02
+
+- Arrow functions
