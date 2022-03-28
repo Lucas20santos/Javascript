@@ -29,6 +29,8 @@ existe algumas regra na criação de nome de variáveis.
 - null
 - Symbol -> criado com o ECS06
 
+### Aula 03
+
 ## Aulas avançadas
 
 ### Aula 00
