@@ -73,6 +73,22 @@ existe algumas regra na criação de nome de variáveis.
 
 ### Aula 05 - Tipo Boolean
 
+> Basicamente é um tipo de dado que trabalha com 2 valores TRUE(verdadeiro) ou FALSE (falso).
+> Temos basicamente 2 tipos de valores em JavaScript TRUTHY e FALSY.
+> FALSY: false, null, undefined, 0, NaN.
+> TRUTHY: todos os valores que não forem FALSY
+
+#### Operadores Booleanos
+
+- igualdade == retorna true se os valores forem iguais
+- igualdade === retorna true se os valores e o tipo forem os mesmos.
+- diferença != compara só valor
+- diferente !== compara valor e tipo
+- '>' maior que
+- '<' menor que
+- '>=' maior ou igual que
+- '<=' maior ou igual que
+
 ## Aulas avançadas
 
 ### Aula 00
