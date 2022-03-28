@@ -89,6 +89,13 @@ existe algumas regra na criação de nome de variáveis.
 - '>=' maior ou igual que
 - '<=' maior ou igual que
 
+### Aula 06 - Tipos null e undefined
+
+#### Principal diferença entre null e undefined
+
+> undefined é uma propriedade global ( em outras palavras variável ou key do objeto global) que tem como valor seu próprio nome. Deste mode temos que undefined tem valor undefined.
+> Já null é um literal e não uma propriedade do objeto global. Para saber se um valor é null e não undefined, é bom sempre usar o operador de igauldade estrita (===).
+
 ## Aulas avançadas
 
 ### Aula 00
