@@ -1,6 +1,9 @@
 let naoExposta = "Nao Exposta";
 const naoExpostaConst = "Nao Exposta Const";
 
+console.log(num)  // hoisting
+
+
 if(true)
 {
     var exposta = "exposta";
@@ -30,3 +33,6 @@ console.log(obj);
 delete obj.c;
 
 console.log(obj);
+
+
+var num = 1;
