@@ -29,7 +29,35 @@ existe algumas regra na criação de nome de variáveis.
 - null
 - Symbol -> criado com o ECS06
 
-### Aula 03
+### Aula 03 - Tipo numerico e operações básicas
+
+#### Operações
+
+- Soma: 2 + 2 = 4
+
+- Subtração: 2 - 2 = 0
+
+- Multiplicação: 2 * 2 = 4
+
+- Divisão: 2 / 2 = 1
+
+- Resto: 2 % 2 = 0
+
+- Retonar um valor inteiro: parseInt(11/2)
+
+> "Wrapper Functions" nada mais sõa que funções construtoras. Ou seja, funções que constroem objetos.
+
+#### Number Methods
+
+- isFinite()
+- isInteger()
+- isNaN()
+- isSafeInteger()
+- toExponential(x)
+- toFixed(x)
+- toPrecision(x)
+- toString()
+- valueOf()
 
 ## Aulas avançadas
 
