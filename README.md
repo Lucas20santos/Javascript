@@ -7,3 +7,15 @@ Javascript do básico ao avançado no canal do youtube
 
 - [w3schools.com](https://www.w3schools.com)
 - [MDS WEB DOCS](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web)
+
+## Aulas
+
+### Aula 00
+
+configuração e demotração dos sites de documentação que foi usado para gerar esse curso.
+
+### Aula01
+
+- Não use var use let ou const
+- escopo de variáveis
+- let e const tem o mesmo escopo de bloco e var escopo de função
