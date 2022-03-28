@@ -10,6 +10,25 @@ Javascript do básico ao avançado no canal do youtube
 
 ## Aulas Básicas
 
+### Aula 00 - Introdução
+
+### Aula 01 - como criar variáveis
+
+- let
+- const
+- var
+
+existe algumas regra na criação de nome de variáveis.
+
+### Aula 02 - Tipos primitivos
+
+- number
+- string
+- boolean
+- undefined
+- null
+- Symbol -> criado com o ECS06
+
 ## Aulas avançadas
 
 ### Aula 00
