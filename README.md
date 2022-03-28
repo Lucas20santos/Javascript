@@ -10,9 +10,9 @@ Javascript do básico ao avançado no canal do youtube
 
 ## Aulas Básicas
 
-### Aula 00 - Introdução
+### Aula 01 - Introdução
 
-### Aula 01 - como criar variáveis
+### Aula 02 - como criar variáveis
 
 - let
 - const
@@ -20,7 +20,7 @@ Javascript do básico ao avançado no canal do youtube
 
 existe algumas regra na criação de nome de variáveis.
 
-### Aula 02 - Tipos primitivos
+### Aula 03 - Tipos primitivos
 
 - number
 - string
@@ -29,7 +29,7 @@ existe algumas regra na criação de nome de variáveis.
 - null
 - Symbol -> criado com o ECS06
 
-### Aula 03 - Tipo numerico e operações básicas
+### Aula 04 - Tipo numerico e operações básicas
 
 #### Operações
 
@@ -59,7 +59,7 @@ existe algumas regra na criação de nome de variáveis.
 - toString()
 - valueOf()
 
-### Aula 04 - Tipo String
+### Aula 05 - Tipo String
 
 > Sequência de caracteres que estão entre aspas
 
@@ -71,7 +71,7 @@ existe algumas regra na criação de nome de variáveis.
 
 > esse método conta a string e retorna um tipo primitivo numerico.
 
-### Aula 05 - Tipo Boolean
+### Aula 06 - Tipo Boolean
 
 > Basicamente é um tipo de dado que trabalha com 2 valores TRUE(verdadeiro) ou FALSE (falso).
 > Temos basicamente 2 tipos de valores em JavaScript TRUTHY e FALSY.
@@ -89,7 +89,9 @@ existe algumas regra na criação de nome de variáveis.
 - '>=' maior ou igual que
 - '<=' maior ou igual que
 
-### Aula 06 - Tipos null e undefined
+### Aula 07 - Tipos null e undefined
+
+### Aula 08.1 - Functions(parte 1)
 
 #### Principal diferença entre null e undefined
 
