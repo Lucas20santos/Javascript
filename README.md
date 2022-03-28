@@ -59,11 +59,25 @@ existe algumas regra na criação de nome de variáveis.
 - toString()
 - valueOf()
 
+### Aula 04 - Tipo String
+
+> Sequência de caracteres que estão entre aspas
+
+#### Concatenação de string
+
+> Juntar duas strings usando o operador "+".
+
+#### Método length
+
+> esse método conta a string e retorna um tipo primitivo numerico.
+
+### Aula 05 - Tipo Boolean
+
 ## Aulas avançadas
 
 ### Aula 00
 
-configuração e demotração dos sites de documentação que foi usado para gerar esse curso.
+> configuração e demotração dos sites de documentação que foi usado para gerar esse curso.
 
 ### Aula 01
 
