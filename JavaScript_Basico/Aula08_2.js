@@ -1,22 +1,25 @@
-let funcaoAnonima = function () 
+// Funções anonimas
+let anonimaF = function()
 {
-    return 'Retorna Isso'
+    return "Sou o retorno da função"
 }
 
-console.log(funcaoAnonima)
+console.log(anonimaF)
+console.log(anonimaF())
 
-console.log(funcaoAnonima())
-
-let arrowF = () => 
-{
-    return "Retorno"
-}
-
+// Arrow Functions
+let arrowF = () => "Sou o retorno na Arrow Functions"
 console.log(arrowF)
-console.log(arrowF())
 
+// IIFE
+let retornoDaIIFE = (function(){
+    return "Sou o retorno de uma funçao imediata(IIFE)"
+})()
 
-let arroW2 = () => "Retorno"
+console.log(retornoDaIIFE)
 
-console.log(arroW2)
-console.log(arroW2())
+let soma = (function(a, b){
+    return a + b
+})(1, 2)
+
+console.log(soma)
