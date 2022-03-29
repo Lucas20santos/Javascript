@@ -111,6 +111,8 @@ existe algumas regra na criação de nome de variáveis.
 
 #### Arrow Functions
 
+### Aula 08.3 - Functions (parte 3)
+
 #### IIFE (Imediately Invoked Function Expression - Ou Função Imediata)
 
 ## Aulas avançadas
