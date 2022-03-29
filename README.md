@@ -93,12 +93,20 @@ existe algumas regra na criação de nome de variáveis.
 
 ### Aula 08.1 - Functions(parte 1)
 
-#### Conceitos Iniciais:
+#### Conceitos Iniciais
 
 > Funções, em um contexto amplo, são blocos de código (ou subprogramas, e aidna subrotinas) estruturados que sempre retornam um valor.
 > Procedimentos são um blocos de código estruturados também que não retorna um valor.
 > No caso do JavaScript ainda que você não retorne nada a função irá retornar 'undefined'
 > Você pode jogar funções para dentro de variável, como parâmetro.
+
+### Aula 08.2 - Functions(parte 2)
+
+#### Funções anonimas
+
+#### Arrow Functions
+
+### Aula 08.3 - Functions(parte 3)
 
 #### Principal diferença entre null e undefined
 
