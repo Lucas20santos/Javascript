@@ -100,6 +100,14 @@ existe algumas regra na criação de nome de variáveis.
 > No caso do JavaScript ainda que você não retorne nada a função irá retornar 'undefined'
 > Você pode jogar funções para dentro de variável, como parâmetro.
 
+### Aula 08.2 - Functions(parte 2)
+
+#### Funções anonimas
+
+#### Arrow Functions
+
+### Aula 08.3 - Functions(parte 3)
+
 #### Principal diferença entre null e undefined
 
 > undefined é uma propriedade global ( em outras palavras variável ou key do objeto global) que tem como valor seu próprio nome. Deste mode temos que undefined tem valor undefined.
