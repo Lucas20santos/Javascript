@@ -93,7 +93,7 @@ existe algumas regra na criação de nome de variáveis.
 
 ### Aula 08.1 - Functions(parte 1)
 
-#### Conceitos Iniciais:
+#### Conceitos Iniciais
 
 > Funções, em um contexto amplo, são blocos de código (ou subprogramas, e aidna subrotinas) estruturados que sempre retornam um valor.
 > Procedimentos são um blocos de código estruturados também que não retorna um valor.
@@ -104,6 +104,14 @@ existe algumas regra na criação de nome de variáveis.
 
 > undefined é uma propriedade global ( em outras palavras variável ou key do objeto global) que tem como valor seu próprio nome. Deste mode temos que undefined tem valor undefined.
 > Já null é um literal e não uma propriedade do objeto global. Para saber se um valor é null e não undefined, é bom sempre usar o operador de igauldade estrita (===).
+
+### Aula 08.2 - Functions (parte 2)
+
+#### Funções anônimas
+
+#### Arrow Functions
+
+#### IIFE (Imediately Invoked Function Expression - Ou Função Imediata)
 
 ## Aulas avançadas
 
