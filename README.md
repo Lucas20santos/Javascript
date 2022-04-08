@@ -136,6 +136,25 @@ existe algumas regra na criação de nome de variáveis.
 
 ### Aula 10.1 - Estrutura de Repetição (for)
 
+### Aula 12 - Objetos (Objects)
+
+> Um objeto é uma coleção de dados relacionados e/ou funcionalidades (que geralmente consitem em diversas variáveis e funções - que são chamadas propriedades e métodos estão dentro de um objetos)
+> Objetos podem ser inicializados usando new Object(), Object.create() ou usando a forma notação literal.
+
+### Aula 13 - Arrays
+
+> O objeto array do JavaScript é um objeto global usado na construção de 'arrays': objetos de alto nível semelhantes a listas.
+> Principias características de um Array em JavaScripts
+
+- São objetos que tem, nativamente, diversos métodos embutidos para realizar diversos tipos de operação;
+- São hetorogêneos (aceitam diversos tipos de dados dentro da mesma lista - inclusive outros arrays e objetos);
+- Não tem tamanho fixo (o tamanho pode alterado a qualquer momento);
+- Dados não saõ necessariamente armazenados contiguamente - podem ser densos (contíguos) ou esparsos (espaçado);
+- Indices são acessado spor meio de números a partir do 0;
+- Acessados o tamanho do array por meio da propriedade nativa "length".
+
+### Funções Construtora
+
 ## Aulas avançadas
 
 ### Aula 00
