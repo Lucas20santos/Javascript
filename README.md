@@ -119,6 +119,16 @@ existe algumas regra na criação de nome de variáveis.
 > Hoisting é um comportamento do JavaScript de mover declarações para o topo de um escopo (o escopo global ou da função em que se encontra).
 > Inicializações não fazem parte do hoisting
 
+### Aula 10.1 - Estrutura Condicionais (parte 1)
+
+### Aula 10.2 - Estrutura Condicionais (parte 2)
+
+### Aula 11.1 - Estrutura de Repetição (do.. while loop)
+
+### Aula 10.1 - Estrutura de Repetição (while loop)
+
+### Aula 10.1 - Estrutura de Repetição (for)
+
 ## Aulas avançadas
 
 ### Aula 00
