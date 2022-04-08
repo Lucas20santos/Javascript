@@ -113,6 +113,12 @@ existe algumas regra na criação de nome de variáveis.
 > undefined é uma propriedade global ( em outras palavras variável ou key do objeto global) que tem como valor seu próprio nome. Deste mode temos que undefined tem valor undefined.
 > Já null é um literal e não uma propriedade do objeto global. Para saber se um valor é null e não undefined, é bom sempre usar o operador de igauldade estrita (===).
 
+### Aula 09 - Hoisting
+
+> Em javascript, funções e variáveis são hoisted (ou 'levadas ao topo).
+> Hoisting é um comportamento do JavaScript de mover declarações para o topo de um escopo (o escopo global ou da função em que se encontra).
+> Inicializações não fazem parte do hoisting
+
 ## Aulas avançadas
 
 ### Aula 00
