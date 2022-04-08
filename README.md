@@ -153,7 +153,13 @@ existe algumas regra na criação de nome de variáveis.
 - Indices são acessado spor meio de números a partir do 0;
 - Acessados o tamanho do array por meio da propriedade nativa "length".
 
-### Funções Construtora
+### Aula - 14 Funções Construtora
+
+### Aula - 15 Escopos (parte 1)
+
+### Aula - 15 Escopos (parte 2)
+
+> Quando você tenta imprimir uma variável, que está dentro de uma função, nesse exemplo a função mais interna recebe nível menor, neste caso 1; se dentro do contexto da função 1, essa variável não for declara, o javascript sai do contexto da função 1 e vai para um contexto superior ou o contexto de função 2. Caso ela não encontre o valor em nenhuma das funções, ela tenta encontrar no contexto global, que é o contexto máximo.
 
 ## Aulas avançadas
 
