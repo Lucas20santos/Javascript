@@ -121,7 +121,14 @@ existe algumas regra na criação de nome de variáveis.
 
 ### Aula 10.1 - Estrutura Condicionais (parte 1)
 
+> if - else
+> if - else if - else
+
 ### Aula 10.2 - Estrutura Condicionais (parte 2)
+
+> conectivos && E e || OU
+> operador ternários
+> switch - case
 
 ### Aula 11.1 - Estrutura de Repetição (do.. while loop)
 
