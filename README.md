@@ -113,15 +113,57 @@ existe algumas regra na criação de nome de variáveis.
 > undefined é uma propriedade global ( em outras palavras variável ou key do objeto global) que tem como valor seu próprio nome. Deste mode temos que undefined tem valor undefined.
 > Já null é um literal e não uma propriedade do objeto global. Para saber se um valor é null e não undefined, é bom sempre usar o operador de igauldade estrita (===).
 
-### Aula 08.2 - Functions (parte 2)
+### Aula 09 - Hoisting
 
-#### Funções anônimas
+> Em javascript, funções e variáveis são hoisted (ou 'levadas ao topo).
+> Hoisting é um comportamento do JavaScript de mover declarações para o topo de um escopo (o escopo global ou da função em que se encontra).
+> Inicializações não fazem parte do hoisting
 
-#### Arrow Functions1
+### Aula 10.1 - Estrutura Condicionais (parte 1)
 
-### Aula 08.3 - Functions (parte 3)
+> if - else
+> if - else if - else
 
-#### IIFE (Imediately Invoked Function Expression - Ou Função Imediata)
+### Aula 10.2 - Estrutura Condicionais (parte 2)
+
+> conectivos && E e || OU
+> operador ternários
+> switch - case
+
+### Aula 11.1 - Estrutura de Repetição (do.. while loop)
+
+### Aula 10.1 - Estrutura de Repetição (while loop)
+
+### Aula 10.1 - Estrutura de Repetição (for)
+
+### Aula 12 - Objetos (Objects)
+
+> Um objeto é uma coleção de dados relacionados e/ou funcionalidades (que geralmente consitem em diversas variáveis e funções - que são chamadas propriedades e métodos estão dentro de um objetos)
+> Objetos podem ser inicializados usando new Object(), Object.create() ou usando a forma notação literal.
+
+### Aula 13 - Arrays
+
+> O objeto array do JavaScript é um objeto global usado na construção de 'arrays': objetos de alto nível semelhantes a listas.
+> Principias características de um Array em JavaScripts
+
+- São objetos que tem, nativamente, diversos métodos embutidos para realizar diversos tipos de operação;
+- São hetorogêneos (aceitam diversos tipos de dados dentro da mesma lista - inclusive outros arrays e objetos);
+- Não tem tamanho fixo (o tamanho pode alterado a qualquer momento);
+- Dados não saõ necessariamente armazenados contiguamente - podem ser densos (contíguos) ou esparsos (espaçado);
+- Indices são acessado spor meio de números a partir do 0;
+- Acessados o tamanho do array por meio da propriedade nativa "length".
+
+### Aula - 14 Funções Construtora
+
+### Aula - 15 Escopos (parte 1)
+
+### Aula - 15 Escopos (parte 2)
+
+> Quando você tenta imprimir uma variável, que está dentro de uma função, nesse exemplo a função mais interna recebe nível menor, neste caso 1; se dentro do contexto da função 1, essa variável não for declara, o javascript sai do contexto da função 1 e vai para um contexto superior ou o contexto de função 2. Caso ela não encontre o valor em nenhuma das funções, ela tenta encontrar no contexto global, que é o contexto máximo.
+
+### Aula 16 - this em JavaScript
+
+> Chamar o this diretamente no console nos traz o objeto global; dentro de um objeto, ele aponta para o objeto que ele foi chamado
 
 ## Aulas avançadas
 
