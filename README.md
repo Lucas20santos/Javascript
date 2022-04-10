@@ -117,7 +117,7 @@ existe algumas regra na criação de nome de variáveis.
 
 #### Funções anônimas
 
-#### Arrow Functions
+#### Arrow Functions1
 
 ### Aula 08.3 - Functions (parte 3)
 
