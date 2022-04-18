@@ -167,9 +167,7 @@ existe algumas regra na criação de nome de variáveis.
 
 ### Aula 17 - call, apply e bind method
 
-#### Bind()
-
-> faz a palavra chave apontar para outro objeto
+### Aula 18 - Debugger
 
 ## Aulas avançadas
 
