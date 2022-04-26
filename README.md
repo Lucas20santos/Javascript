@@ -165,6 +165,10 @@ existe algumas regra na criação de nome de variáveis.
 
 > Chamar o this diretamente no console nos traz o objeto global; dentro de um objeto, ele aponta para o objeto que ele foi chamado
 
+### Aula 17 - call, apply e bind method
+
+### Aula 18 - Debugger
+
 ## Aulas avançadas
 
 ### Aula 00
